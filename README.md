@@ -1,6 +1,9 @@
 AI Tools Assignment: Mastering the AI Toolkit 🛠️🧠
+
+
 Overview
 This repository contains the work for an AI Tools Assignment focused on demonstrating proficiency in using various AI frameworks, including TensorFlow, PyTorch, Scikit-learn, and spaCy. The assignment consists of three parts: theoretical understanding, practical implementation, and ethical considerations (excluded in this repository). The goal is to showcase a deep understanding of AI tools and their real-world applications in a collaborative group setting.
+
 
 Directory Structure
 /AI_Tools_Assignment
@@ -10,6 +13,8 @@ Directory Structure
     │   ├── deep_learning_with_tensorflow.py
     │   ├── nlp_with_spacy.py
     ├── README.md
+
+    
 Technologies Used
 TensorFlow: Deep learning framework used for building and training the Convolutional Neural Network (CNN) model for MNIST.
 
